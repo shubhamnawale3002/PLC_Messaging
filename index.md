@@ -7,7 +7,7 @@
 			embeddedservice_bootstrap.init(
 				'00DKj000008RfqZ',
 				'Sonim_Chat_Support',
-				'https://in1730818425694.my.site.com/ESWSonimChatSupport1730825057895',
+				'https://in1730818425694.my.site.com/ESWSonimChatSupport1730826284786',
 				{
 					scrt2URL: 'https://in1730818425694.my.salesforce-scrt.com'
 				}
@@ -17,4 +17,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://in1730818425694.my.site.com/ESWSonimChatSupport1730825057895/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://in1730818425694.my.site.com/ESWSonimChatSupport1730826284786/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
